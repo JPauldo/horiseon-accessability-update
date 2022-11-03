@@ -8,6 +8,6 @@ A representive from Horiseon reached out to ask for help with refactoring their 
 
 Below is a screenshot of Horiseon's Brochure Page:
 
-![](assets\images\horiseon-webpage-screenshot.png)
+![](https://github.com/JPauldo/horiseon-accessibility-update/blob/main/assets/images/horiseon-webpage-screenshot.png)
 
 Feel free to inspect the Github page to see my work!
